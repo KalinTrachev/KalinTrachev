@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @KalinTrachev
 - 👀 I’m interested in JavaScript, Front-End, Design, Architecture
-- 🌱 I’m currently learning JavaScript, CSS, HTML, React, Git
 - 📫 How to reach me ... email: kalin.trachev@gmail.com
 
 <!---
